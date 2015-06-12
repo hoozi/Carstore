@@ -1,0 +1,25 @@
+{
+  "name": "Carstore",
+  "version": "0.0.1",
+  "description": "It's example for angularjs",
+  "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
+    "start": "http-server -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoozi/Carstore.git"
+  },
+  "author": "hoozi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoozi/Carstore/issues"
+  },
+  "homepage": "https://github.com/hoozi/Carstore",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
